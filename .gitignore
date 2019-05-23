@@ -1,0 +1,6 @@
+__pycache__
+/static/*
+!/static/cache/
+/static/cache/*
+!/static/cache/.gitkeep
+/.vscode
